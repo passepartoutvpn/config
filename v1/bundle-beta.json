@@ -1,5 +1,8 @@
 {
-    "newPaywall": {
+    "tvWebImport": {
+        "rate": 100
+    },
+    "tvSendTo": {
         "rate": 100
     },
     "appNotWorking": {
