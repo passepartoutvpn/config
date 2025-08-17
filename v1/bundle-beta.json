@@ -2,9 +2,13 @@
     "newPaywall": {
         "rate": 100
     },
+    "allowsRelaxedVerification": {
+        "rate": 100,
+        "minBuild": 3908
+    },
     "neSocket": {
         "rate": 100,
-        "minBuild": 3904
+        "minBuild": 3908
     },
     "tvWebImport": {
         "rate": 0

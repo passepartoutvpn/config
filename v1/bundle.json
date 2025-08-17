@@ -1,4 +1,12 @@
 {
+    "newPaywall": {
+        "rate": 100,
+        "minBuild": 3908
+    },
+    "allowsRelaxedVerification": {
+        "rate": 100,
+        "minBuild": 3908
+    },
     "appNotWorking": {
         "rate": 0,
         "data": {
