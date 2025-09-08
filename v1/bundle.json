@@ -1,5 +1,5 @@
 {
-    "tvSendTo": {
+    "neSocket": {
         "rate": 0,
         "minBuild": 3908
     },

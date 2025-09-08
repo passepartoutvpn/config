@@ -1,5 +1,17 @@
 {
+    "wgCrossParser": {
+        "rate": 0,
+        "minBuild": 4000
+    },
+    "wgCrossConnection": {
+        "rate": 0,
+        "minBuild": 4000
+    },
     "tvSendTo": {
+        "rate": 0,
+        "minBuild": 4000
+    },
+    "neSocket": {
         "rate": 100,
         "minBuild": 3908
     },
