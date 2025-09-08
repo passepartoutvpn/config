@@ -1,4 +1,8 @@
 {
+    "tvWebImport": {
+        "rate": 100,
+        "minBuild": 3908
+    },
     "newPaywall": {
         "rate": 100,
         "minBuild": 3908

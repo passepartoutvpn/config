@@ -1,20 +1,19 @@
 {
+    "tvSendTo": {
+        "rate": 0,
+        "minBuild": 4000
+    },
+    "tvWebImport": {
+        "rate": 100,
+        "minBuild": 3908
+    },
     "newPaywall": {
-        "rate": 100
+        "rate": 100,
+        "minBuild": 3908
     },
     "allowsRelaxedVerification": {
         "rate": 100,
         "minBuild": 3908
-    },
-    "neSocket": {
-        "rate": 100,
-        "minBuild": 3908
-    },
-    "tvWebImport": {
-        "rate": 0
-    },
-    "tvSendTo": {
-        "rate": 0
     },
     "appNotWorking": {
         "rate": 0,
