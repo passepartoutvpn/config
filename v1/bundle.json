@@ -1,4 +1,8 @@
 {
+    "tvSendTo": {
+        "rate": 0,
+        "minBuild": 3908
+    },
     "tvWebImport": {
         "rate": 100,
         "minBuild": 3908
