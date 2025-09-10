@@ -1,6 +1,6 @@
 {
     "neSocket": {
-        "rate": 0,
+        "rate": 100,
         "minBuild": 3908
     },
     "tvWebImport": {
