@@ -1,23 +1,27 @@
 {
-    "wgCrossParser": {
-        "rate": 0,
-        "minBuild": 4000
-    },
-    "wgCrossConnection": {
-        "rate": 0,
-        "minBuild": 4000
-    },
-    "tvSendTo": {
-        "rate": 0,
-        "minBuild": 4000
-    },
     "neSocketUDP": {
-        "rate": 100,
-        "minBuild": 3917
+        "rate": 0,
+        "minBuild": 4000
     },
     "neSocketTCP": {
+        "rate": 0,
+        "minBuild": 4000
+    },
+    "ovpnCrossConnection": {
         "rate": 100,
-        "minBuild": 3917
+        "minBuild": 3919
+    },
+    "wgCrossParser": {
+        "rate": 100,
+        "minBuild": 3919
+    },
+    "wgCrossConnection": {
+        "rate": 100,
+        "minBuild": 3919
+    },
+    "tvSendTo": {
+        "rate": 100,
+        "minBuild": 3919
     },
     "tvWebImport": {
         "rate": 100,
