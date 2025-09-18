@@ -9,19 +9,19 @@
     },
     "ovpnCrossConnection": {
         "rate": 100,
-        "minBuild": 3919
+        "minBuild": 3924
     },
     "wgCrossParser": {
         "rate": 100,
-        "minBuild": 3919
+        "minBuild": 3924
     },
     "wgCrossConnection": {
         "rate": 100,
-        "minBuild": 3919
+        "minBuild": 3924
     },
     "tvSendTo": {
         "rate": 100,
-        "minBuild": 3919
+        "minBuild": 3924
     },
     "tvWebImport": {
         "rate": 100,
