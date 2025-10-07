@@ -1,21 +1,13 @@
 {
-    "neSocketUDP": {
-        "rate": 0,
-        "minBuild": 4000
-    },
-    "neSocketTCP": {
-        "rate": 0,
-        "minBuild": 4000
-    },
     "ovpnCrossConnection": {
         "rate": 100,
         "minBuild": 3924
     },
-    "wgCrossParser": {
+    "wgCrossConnection": {
         "rate": 100,
         "minBuild": 3924
     },
-    "wgCrossConnection": {
+    "wgCrossParser": {
         "rate": 100,
         "minBuild": 3924
     },
