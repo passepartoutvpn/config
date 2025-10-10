@@ -4,7 +4,7 @@
         "minBuild": 3933
     },
     "wgCrossConnection": {
-        "rate": 0,
+        "rate": 100,
         "minBuild": 3933
     },
     "wgCrossParser": {
