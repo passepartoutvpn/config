@@ -1,10 +1,10 @@
 {
+    "wgCrossConnection": {
+        "rate": 100,
+        "minBuild": 3940
+    },
     "ovpnCrossConnection": {
         "rate": 100,
-        "minBuild": 3933
-    },
-    "wgCrossConnection": {
-        "rate": 0,
         "minBuild": 3933
     },
     "wgCrossParser": {
