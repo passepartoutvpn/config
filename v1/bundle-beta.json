@@ -1,4 +1,8 @@
 {
+    "wgV4OverV6": {
+        "rate": 100,
+        "minBuild": 3966
+    },
     "ovpnCrossConnection": {
         "rate": 100,
         "minBuild": 3924
