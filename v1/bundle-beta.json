@@ -1,4 +1,8 @@
 {
+    "tunnelABI": {
+        "rate": 100,
+        "minBuild": 3972
+    },
     "wgV4OverV6": {
         "rate": 100,
         "minBuild": 3966
