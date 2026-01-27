@@ -1,4 +1,12 @@
 {
+    "observableMain": {
+        "rate": 100,
+        "minBuild": 3983
+    },
+    "observableTV": {
+        "rate": 100,
+        "minBuild": 3983
+    },
     "tunnelABI": {
         "rate": 100,
         "minBuild": 3976
