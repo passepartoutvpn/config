@@ -1,4 +1,8 @@
 {
+    "newProfileEncoding": {
+        "rate": 100,
+        "minBuild": 4005
+    },
     "observableMain": {
         "rate": 100,
         "minBuild": 3983
