@@ -1,4 +1,7 @@
 {
+    "wgCrossV2": {
+        "rate": 0
+    },
     "newProfileEncoding": {
         "rate": 100,
         "minBuild": 4005
