@@ -6,6 +6,10 @@
         "rate": 0,
         "minBuild": 4024
     },
+    "forcesRelaxedVerification": {
+        "rate": 100,
+        "minBuild": 4024
+    },
     "observableMain": {
         "rate": 100,
         "minBuild": 3983
