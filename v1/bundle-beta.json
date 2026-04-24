@@ -1,10 +1,13 @@
 {
+    "newProfileEncoding": {
+        "rate": 0
+    },
     "wgCrossV2": {
         "rate": 0
     },
-    "newProfileEncoding": {
-        "rate": 0,
-        "minBuild": 4024
+    "ovpnCrossV2": {
+        "rate": 100,
+        "minBuild": 4041
     },
     "forcesRelaxedVerification": {
         "rate": 100,
