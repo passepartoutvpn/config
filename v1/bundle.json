@@ -1,6 +1,11 @@
 {
     "newProfileEncoding": {
-        "rate": 0
+        "rate": 0,
+        "minBuild": 4040
+    },
+    "forcesRelaxedVerification": {
+        "rate": 0,
+        "minBuild": 4029
     },
     "wgCrossV2": {
         "rate": 100,
