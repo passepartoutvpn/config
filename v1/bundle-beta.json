@@ -3,6 +3,10 @@
         "rate": 100,
         "minBuild": 4040
     },
+    "ovpnV3": {
+        "rate": 100,
+        "minBuild": 4082
+    },
     "wgCrossV2": {
         "rate": 100,
         "minBuild": 4046
