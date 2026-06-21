@@ -1,6 +1,6 @@
 {
     "ovpnV3": {
-        "rate": 100,
+        "rate": 0,
         "minBuild": 4082
     },
     "newProfileEncoding": {
