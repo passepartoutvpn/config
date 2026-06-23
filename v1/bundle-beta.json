@@ -1,4 +1,7 @@
 {
+    "neSafeValueObserver": {
+        "rate": 100
+    },
     "newProfileEncoding": {
         "rate": 100,
         "minBuild": 4040

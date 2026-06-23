@@ -1,4 +1,7 @@
 {
+    "neSafeValueObserver": {
+        "rate": 100
+    },
     "ovpnV3": {
         "rate": 0,
         "minBuild": 4082
