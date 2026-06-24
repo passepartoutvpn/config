@@ -1,6 +1,6 @@
 {
     "neSafeValueObserver": {
-        "rate": 0
+        "rate": 100
     },
     "ovpnV3": {
         "rate": 0,
